@@ -2,10 +2,10 @@
 An application that extracts emotions of a given text - whether it is positive, negative or neutral and return a sentiment score.
 
 ## Table of Contents
-* [General Info](#general info)
+* [General Info](#generalinfo)
 * [Technology Used](#technology)
-* [Obtaining Data](#web scraping)
-* [Extracting Emotions](#Sentiment Analysis)
+* [Obtaining Data](#webscraping)
+* [Extracting Emotions](#SentimentAnalysis)
 
 ## General Info
 Guest reviews are becoming a prominent factor affecting people’s bookings/purchases. Reviews can tell you if you are keeping up with your customers’ expectations, which is crucial for developing marketing strategies based on the personas of your customers.
